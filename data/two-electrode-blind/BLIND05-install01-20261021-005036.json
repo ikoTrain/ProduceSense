@@ -1,0 +1,83 @@
+﻿{
+    "class":  "cucumber",
+    "specimen_id":  "BLIND05",
+    "mass_g":  null,
+    "installation":  1,
+    "depth_mm":  null,
+    "spacing_mm":  null,
+    "geometry_note":  "FREE GEOMETRY: next specimen per user; depth and spacing uncontrolled, identity withheld",
+    "dataset_role":  "blind single-installation FREE GEOMETRY robustness test",
+    "firmware":  "v3",
+    "series_resistor_ohm":  10000,
+    "pre_capture_wait_s":  30,
+    "sample_count":  180,
+    "summary":  [
+                    {
+                        "group":  "F, 1000",
+                        "count":  30,
+                        "mv_mean":  621.0333333333333,
+                        "mv_sd":  3.0711923128033232,
+                        "mv_min":  617,
+                        "mv_max":  631,
+                        "first10_mv":  623.7,
+                        "last10_mv":  619.4,
+                        "rail_count":  0
+                    },
+                    {
+                        "group":  "F, 5000",
+                        "count":  30,
+                        "mv_mean":  651.73333333333335,
+                        "mv_sd":  3.5207322470695734,
+                        "mv_min":  639,
+                        "mv_max":  658,
+                        "first10_mv":  654.1,
+                        "last10_mv":  651.4,
+                        "rail_count":  0
+                    },
+                    {
+                        "group":  "F, 20000",
+                        "count":  30,
+                        "mv_mean":  704.5,
+                        "mv_sd":  4.86997604374669,
+                        "mv_min":  689,
+                        "mv_max":  711,
+                        "first10_mv":  703.3,
+                        "last10_mv":  704.2,
+                        "rail_count":  0
+                    },
+                    {
+                        "group":  "R, 1000",
+                        "count":  30,
+                        "mv_mean":  2726.0666666666666,
+                        "mv_sd":  3.1297852251481335,
+                        "mv_min":  2721,
+                        "mv_max":  2733,
+                        "first10_mv":  2726.4,
+                        "last10_mv":  2726.8,
+                        "rail_count":  0
+                    },
+                    {
+                        "group":  "R, 5000",
+                        "count":  30,
+                        "mv_mean":  2689.4333333333334,
+                        "mv_sd":  3.4993650217654571,
+                        "mv_min":  2683,
+                        "mv_max":  2698,
+                        "first10_mv":  2689.4,
+                        "last10_mv":  2689.7,
+                        "rail_count":  0
+                    },
+                    {
+                        "group":  "R, 20000",
+                        "count":  30,
+                        "mv_mean":  2629.3666666666668,
+                        "mv_sd":  3.1987844913689054,
+                        "mv_min":  2622,
+                        "mv_max":  2637,
+                        "first10_mv":  2629,
+                        "last10_mv":  2630,
+                        "rail_count":  0
+                    }
+                ],
+    "label_note":  "Cucumber confirmed after prediction; physical identity and mass unknown"
+}

@@ -1,0 +1,10 @@
+﻿{
+    "source":  "user report",
+    "distinct_specimens":  10,
+    "distinctness":  "ten different specimens within self-test series confirmed",
+    "overlap_with_logged_series":  null,
+    "class_counts":  null,
+    "correct_count":  10,
+    "electrical_logs_available":  false,
+    "note":  "User confirmed ten different specimens and no errors; self-reported outcome, not instrumentally logged"
+}

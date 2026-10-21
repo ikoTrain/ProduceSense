@@ -1,0 +1,7 @@
+﻿INFO ProduceClassifier v1.1; model three-class-v1; state=0; GPIO5--10k--A+GPIO4; B--GPIO6
+START mode=fast settle_ms=5000 cycles=6; hands off
+CAPTURING
+TIMING mode=fast elapsed_ms=7600 cycles=6
+FEATURES_MV,475.833,497.667,553.500,2901.000,2868.333,2809.167
+RESULT potato model=three-class-v1 cycles=6
+

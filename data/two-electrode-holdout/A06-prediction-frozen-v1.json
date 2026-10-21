@@ -1,0 +1,50 @@
+{
+  "specimen_id": "A06",
+  "created_at": "2026-10-20T21:22:13.942Z",
+  "model_sha256": "2e8ea2a43093247b100d261007fa65230611dab7a4a9381b3ef605ede55cb47f",
+  "model_frozen_at": "2026-10-20T21:19:23.395Z",
+  "protocol": "mean of two installations; single installation prediction diagnostic only",
+  "files": [
+    "A06-install01-20261021-001923.json",
+    "A06-install02-20261021-002124.json"
+  ],
+  "features": [
+    1667.2666666666667,
+    1695.4666666666667,
+    1747.85,
+    1681.4499999999998,
+    1653.1666666666665,
+    1595.9833333333331
+  ],
+  "predicted": "apple",
+  "ranking": [
+    {
+      "label": "apple",
+      "distance": 0.8597156004540841
+    },
+    {
+      "label": "beetroot",
+      "distance": 5.406945513113764
+    },
+    {
+      "label": "cucumber",
+      "distance": 5.871591492259351
+    },
+    {
+      "label": "potato",
+      "distance": 7.364590363066495
+    }
+  ],
+  "installation_predictions": [
+    {
+      "installation": 1,
+      "predicted": "apple"
+    },
+    {
+      "installation": 2,
+      "predicted": "apple"
+    }
+  ],
+  "actual_label": "apple",
+  "note": "Label used only for evaluation after prediction; distances are not probabilities; no training or updates performed."
+}

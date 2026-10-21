@@ -1,0 +1,17 @@
+﻿{
+    "specimen_id":  "WIRE-ONLY",
+    "class":  "wire_reference",
+    "electrode_type":  "wire_no_tooth",
+    "configuration_note":  "wire reconnected to GPIO4 without metal tooth or produce, free end suspended and wire fixed requested; user confirmed ready; USB reconnect requested before capture",
+    "firmware_version":  "v2-measurement-mode",
+    "session_id":  "20261020-224033",
+    "repeat":  2,
+    "pressed_semantics":  "disabled; not evidence of hands-off",
+    "sample_count":  150,
+    "mean":  20712.626666666667,
+    "min":  20696,
+    "max":  20725,
+    "sd":  7.0545934602136295,
+    "first50_mean":  20711.06,
+    "last50_mean":  20712.12
+}

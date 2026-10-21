@@ -1,0 +1,21 @@
+﻿{
+    "specimen_id":  "B02",
+    "class":  "beetroot",
+    "mass_g":  243,
+    "electrode_type":  "cutter_tooth",
+    "fixture_id":  "fixed-fixture-02",
+    "installation":  1,
+    "depth_mm":  13,
+    "configuration_note":  "B02 brought to fixed electrode to 13 mm with nonconductive support requested; user confirmed ready; post-removal air reference pending",
+    "firmware_version":  "v2-measurement-mode",
+    "session_id":  "20261020-224358",
+    "pre_capture_wait_s":  30,
+    "pressed_semantics":  "disabled; not evidence of hands-off",
+    "sample_count":  150,
+    "mean":  28448.093333333334,
+    "min":  28408,
+    "max":  28559,
+    "sd":  27.791448724782612,
+    "first50_mean":  28476.52,
+    "last50_mean":  28429.26
+}

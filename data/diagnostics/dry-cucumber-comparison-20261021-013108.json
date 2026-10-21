@@ -1,0 +1,58 @@
+{
+  "actual": "cucumber",
+  "condition": "small and somewhat dried per user",
+  "previous_result": "user reports repeated yellow in slow mode after relocation; no previous features logged",
+  "current": [
+    {
+      "file": "dry-cucumber-20261021-013108.txt",
+      "x": [
+        588.433,
+        619.833,
+        681.4,
+        2757.8,
+        2719.833,
+        2656.2
+      ],
+      "ranking": [
+        {
+          "label": "cucumber",
+          "distance": 0.633606217524603
+        },
+        {
+          "label": "potato",
+          "distance": 0.6742312424975927
+        },
+        {
+          "label": "apple",
+          "distance": 5.010421909733215
+        }
+      ]
+    },
+    {
+      "file": "dry-cucumber-fast-20261021-013108.txt",
+      "x": [
+        587.833,
+        622.333,
+        684.167,
+        2754.167,
+        2721.833,
+        2653.833
+      ],
+      "ranking": [
+        {
+          "label": "cucumber",
+          "distance": 0.6259074000176813
+        },
+        {
+          "label": "potato",
+          "distance": 0.6818371916748863
+        },
+        {
+          "label": "apple",
+          "distance": 5.002648639703007
+        }
+      ]
+    }
+  ],
+  "model_unchanged": true
+}

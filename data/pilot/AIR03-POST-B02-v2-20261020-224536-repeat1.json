@@ -1,0 +1,18 @@
+﻿{
+    "specimen_id":  "AIR03-POST-B02",
+    "class":  "air_reference",
+    "electrode_type":  "cutter_tooth",
+    "fixture_id":  "fixed-fixture-02",
+    "configuration_note":  "B02 removed without cleaning tooth; fixation and wire unchanged requested; fruit and hands at least 30 cm away; user confirmed ready",
+    "firmware_version":  "v2-measurement-mode",
+    "session_id":  "20261020-224536",
+    "repeat":  1,
+    "pressed_semantics":  "disabled; not evidence of hands-off",
+    "sample_count":  150,
+    "mean":  25749.953333333335,
+    "min":  25631,
+    "max":  25932,
+    "sd":  62.621544393461107,
+    "first50_mean":  25814.98,
+    "last50_mean":  25685.78
+}

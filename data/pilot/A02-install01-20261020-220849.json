@@ -1,0 +1,20 @@
+﻿{
+    "specimen_id":  "A02",
+    "class":  "apple",
+    "subtype":  "1",
+    "mass_g":  149,
+    "installation":  1,
+    "electrode_type":  "cutter_tooth",
+    "configuration_note":  "second apple of same type requested; user confirmed ready; mass 149 g reported during capture",
+    "method":  "ESP32-S3 GPIO4 touchRead median-of-5",
+    "timestamp":  "20261020-220849",
+    "depth_mm":  13,
+    "depth_note":  "requested 13 mm; user confirmed ready",
+    "pre_capture_wait_s":  30,
+    "sample_count":  150,
+    "mean":  26641.453333333335,
+    "min":  26578,
+    "max":  26692,
+    "sd":  21.1371983847329,
+    "pressed_count":  0
+}

@@ -1,0 +1,20 @@
+﻿{
+    "specimen_id":  "P02",
+    "class":  "potato",
+    "subtype":  null,
+    "mass_g":  105,
+    "installation":  1,
+    "electrode_type":  "wire",
+    "electrode_coating":  null,
+    "configuration_note":  "wire replacing cutter tooth requested; coating unspecified; USB moved back to UART before capture, possible power cycle",
+    "method":  "ESP32-S3 GPIO4 touchRead median-of-5",
+    "timestamp":  "20261020-220007",
+    "depth_mm":  13,
+    "depth_note":  "requested 13 mm; user confirmed ready without restating depth",
+    "sample_count":  150,
+    "mean":  25760.286666666667,
+    "min":  25717,
+    "max":  25827,
+    "sd":  16.141597057155,
+    "pressed_count":  0
+}

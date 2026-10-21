@@ -1,0 +1,18 @@
+﻿{
+    "specimen_id":  "AIR02-FIXED",
+    "class":  "air_reference",
+    "electrode_type":  "cutter_tooth",
+    "fixture_id":  "fixed-fixture-02",
+    "configuration_note":  "tooth reattached to GPIO4 wire; wire and electrode fixed by insulated part with metal in air and no produce requested; user confirmed ready",
+    "firmware_version":  "v2-measurement-mode",
+    "session_id":  "20261020-224232",
+    "repeat":  1,
+    "pressed_semantics":  "disabled; not evidence of hands-off",
+    "sample_count":  150,
+    "mean":  21519.873333333333,
+    "min":  21446,
+    "max":  21557,
+    "sd":  28.715918156234455,
+    "first50_mean":  21531.28,
+    "last50_mean":  21494.48
+}

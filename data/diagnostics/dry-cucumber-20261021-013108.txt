@@ -1,0 +1,7 @@
+﻿INFO ProduceClassifier v1.1; model three-class-v1; state=0; GPIO5--10k--A+GPIO4; B--GPIO6
+START mode=slow settle_ms=30000 cycles=30; hands off
+CAPTURING
+TIMING mode=slow elapsed_ms=44600 cycles=30
+FEATURES_MV,588.433,619.833,681.400,2757.800,2719.833,2656.200
+RESULT cucumber model=three-class-v1 cycles=30
+

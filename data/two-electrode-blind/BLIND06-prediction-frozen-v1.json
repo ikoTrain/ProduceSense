@@ -1,0 +1,39 @@
+﻿{
+    "id":  "BLIND06",
+    "created_at":  "2026-10-20T21:53:51.705Z",
+    "protocol":  "blind single installation, frozen model trained on two-installation specimen means",
+    "model_sha256":  "2e8ea2a43093247b100d261007fa65230611dab7a4a9381b3ef605ede55cb47f",
+    "capture":  "BLIND06-install01-20261021-005302.json",
+    "features":  [
+                     436.46666666666664,
+                     466.6666666666667,
+                     526.0666666666667,
+                     2926.266666666667,
+                     2892.9666666666667,
+                     2824.366666666667
+                 ],
+    "predicted":  "potato",
+    "ranking":  [
+                    {
+                        "label":  "potato",
+                        "distance":  0.2337108277186488
+                    },
+                    {
+                        "label":  "cucumber",
+                        "distance":  1.7234066007351665
+                    },
+                    {
+                        "label":  "beetroot",
+                        "distance":  2.1871914877205825
+                    },
+                    {
+                        "label":  "apple",
+                        "distance":  6.736241564190233
+                    }
+                ],
+    "actual_label":  "potato",
+    "note":  "Identity withheld at prediction time; distances are not probabilities; no retraining.",
+    "label_revealed_at":  "2026-10-20T21:54:18.9835007Z",
+    "label_source":  "User confirmed potato after prediction; large and new variety per user; mass and cultivar unknown",
+    "geometry_protocol":  "free geometry, depth and spacing unknown"
+}

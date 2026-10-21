@@ -1,0 +1,6 @@
+﻿START mode=fast settle_ms=5000 cycles=6; hands off
+CAPTURING
+TIMING mode=fast elapsed_ms=7600 cycles=6
+FEATURES_MV,587.833,622.333,684.167,2754.167,2721.833,2653.833
+RESULT cucumber model=three-class-v1 cycles=6
+

@@ -1,0 +1,83 @@
+﻿{
+    "class":  "cucumber",
+    "specimen_id":  "C03",
+    "mass_g":  85,
+    "mass_note":  "user reported 85 g",
+    "installation":  2,
+    "depth_mm":  13,
+    "spacing_mm":  10,
+    "geometry_note":  "same C03 relocated requested; user ready; approximate geometry",
+    "dataset_role":  "prospective holdout; never train frozen v1 on this specimen",
+    "firmware":  "v3",
+    "series_resistor_ohm":  10000,
+    "pre_capture_wait_s":  30,
+    "sample_count":  180,
+    "summary":  [
+                    {
+                        "group":  "F, 1000",
+                        "count":  30,
+                        "mv_mean":  653.63333333333333,
+                        "mv_sd":  3.7281213618777076,
+                        "mv_min":  642,
+                        "mv_max":  658,
+                        "first10_mv":  655.4,
+                        "last10_mv":  652.7,
+                        "rail_count":  0
+                    },
+                    {
+                        "group":  "F, 5000",
+                        "count":  30,
+                        "mv_mean":  692.23333333333335,
+                        "mv_sd":  3.5747571790107506,
+                        "mv_min":  685,
+                        "mv_max":  702,
+                        "first10_mv":  693.4,
+                        "last10_mv":  691,
+                        "rail_count":  0
+                    },
+                    {
+                        "group":  "F, 20000",
+                        "count":  30,
+                        "mv_mean":  754.93333333333328,
+                        "mv_sd":  4.2890040283911546,
+                        "mv_min":  740,
+                        "mv_max":  766,
+                        "first10_mv":  754.2,
+                        "last10_mv":  754.2,
+                        "rail_count":  0
+                    },
+                    {
+                        "group":  "R, 1000",
+                        "count":  30,
+                        "mv_mean":  2692.9,
+                        "mv_sd":  4.9217205663602375,
+                        "mv_min":  2683,
+                        "mv_max":  2703,
+                        "first10_mv":  2693.4,
+                        "last10_mv":  2692.8,
+                        "rail_count":  0
+                    },
+                    {
+                        "group":  "R, 5000",
+                        "count":  30,
+                        "mv_mean":  2650.8666666666668,
+                        "mv_sd":  7.6408260170103484,
+                        "mv_min":  2626,
+                        "mv_max":  2674,
+                        "first10_mv":  2653.4,
+                        "last10_mv":  2649.2,
+                        "rail_count":  0
+                    },
+                    {
+                        "group":  "R, 20000",
+                        "count":  30,
+                        "mv_mean":  2579.3,
+                        "mv_sd":  3.4847285881877981,
+                        "mv_min":  2570,
+                        "mv_max":  2587,
+                        "first10_mv":  2581,
+                        "last10_mv":  2579,
+                        "rail_count":  0
+                    }
+                ]
+}

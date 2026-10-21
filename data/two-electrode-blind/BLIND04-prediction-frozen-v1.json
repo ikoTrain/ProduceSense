@@ -1,0 +1,39 @@
+﻿{
+    "id":  "BLIND04",
+    "created_at":  "2026-10-20T21:49:29.147Z",
+    "protocol":  "blind single installation, frozen model trained on two-installation specimen means",
+    "model_sha256":  "2e8ea2a43093247b100d261007fa65230611dab7a4a9381b3ef605ede55cb47f",
+    "capture":  "BLIND04-install01-20261021-004840.json",
+    "features":  [
+                     1507.5,
+                     1544.4333333333334,
+                     1611.1666666666667,
+                     1843.5666666666666,
+                     1805.6333333333334,
+                     1731.5333333333333
+                 ],
+    "predicted":  "apple",
+    "ranking":  [
+                    {
+                        "label":  "apple",
+                        "distance":  0.0795025359426805
+                    },
+                    {
+                        "label":  "beetroot",
+                        "distance":  4.485111039942818
+                    },
+                    {
+                        "label":  "cucumber",
+                        "distance":  4.949720545407565
+                    },
+                    {
+                        "label":  "potato",
+                        "distance":  6.442699607944982
+                    }
+                ],
+    "actual_label":  "apple",
+    "note":  "Identity withheld at prediction time; distances are not probabilities; no retraining.",
+    "label_revealed_at":  "2026-10-20T21:49:51.6061506Z",
+    "label_source":  "User confirmed apple after prediction",
+    "geometry_protocol":  "free geometry, depth and spacing unknown; separate robustness test"
+}

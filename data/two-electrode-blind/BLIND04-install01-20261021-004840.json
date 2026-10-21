@@ -1,0 +1,83 @@
+﻿{
+    "class":  "apple",
+    "specimen_id":  "BLIND04",
+    "mass_g":  null,
+    "installation":  1,
+    "depth_mm":  null,
+    "spacing_mm":  null,
+    "geometry_note":  "FREE GEOMETRY: user inserted by eye, no depth or spacing control; identity withheld",
+    "dataset_role":  "blind single-installation FREE GEOMETRY robustness test; separate from controlled-geometry blind series",
+    "firmware":  "v3",
+    "series_resistor_ohm":  10000,
+    "pre_capture_wait_s":  30,
+    "sample_count":  180,
+    "summary":  [
+                    {
+                        "group":  "F, 1000",
+                        "count":  30,
+                        "mv_mean":  1507.5,
+                        "mv_sd":  4.410215414239989,
+                        "mv_min":  1501,
+                        "mv_max":  1523,
+                        "first10_mv":  1508.8,
+                        "last10_mv":  1505.7,
+                        "rail_count":  0
+                    },
+                    {
+                        "group":  "F, 5000",
+                        "count":  30,
+                        "mv_mean":  1544.4333333333334,
+                        "mv_sd":  3.8960093543122927,
+                        "mv_min":  1536,
+                        "mv_max":  1557,
+                        "first10_mv":  1545.1,
+                        "last10_mv":  1544.5,
+                        "rail_count":  0
+                    },
+                    {
+                        "group":  "F, 20000",
+                        "count":  30,
+                        "mv_mean":  1611.1666666666667,
+                        "mv_sd":  2.5044405008349111,
+                        "mv_min":  1604,
+                        "mv_max":  1616,
+                        "first10_mv":  1610.5,
+                        "last10_mv":  1611.7,
+                        "rail_count":  0
+                    },
+                    {
+                        "group":  "R, 1000",
+                        "count":  30,
+                        "mv_mean":  1843.5666666666666,
+                        "mv_sd":  5.4386477077384665,
+                        "mv_min":  1829,
+                        "mv_max":  1852,
+                        "first10_mv":  1842.3,
+                        "last10_mv":  1843.5,
+                        "rail_count":  0
+                    },
+                    {
+                        "group":  "R, 5000",
+                        "count":  30,
+                        "mv_mean":  1805.6333333333334,
+                        "mv_sd":  3.1778749013906897,
+                        "mv_min":  1800,
+                        "mv_max":  1815,
+                        "first10_mv":  1805.8,
+                        "last10_mv":  1805.2,
+                        "rail_count":  0
+                    },
+                    {
+                        "group":  "R, 20000",
+                        "count":  30,
+                        "mv_mean":  1731.5333333333333,
+                        "mv_sd":  4.3949465930265355,
+                        "mv_min":  1723,
+                        "mv_max":  1742,
+                        "first10_mv":  1732.4,
+                        "last10_mv":  1730.5,
+                        "rail_count":  0
+                    }
+                ],
+    "label_note":  "Apple confirmed after prediction; physical identity and mass unknown"
+}

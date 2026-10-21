@@ -1,0 +1,63 @@
+﻿{
+    "test":  "electrodes touching",
+    "confirmation":  "user ready after requested direct contact, hands off",
+    "firmware":  "v3",
+    "series_resistor_ohm":  10000,
+    "sample_count":  180,
+    "summary":  [
+                    {
+                        "group":  "F, 1000",
+                        "count":  30,
+                        "raw_mean":  0.43333333333333335,
+                        "mv_mean":  0.66666666666666663,
+                        "raw_min":  0,
+                        "raw_max":  6,
+                        "rail_count":  30
+                    },
+                    {
+                        "group":  "F, 5000",
+                        "count":  30,
+                        "raw_mean":  0.066666666666666666,
+                        "mv_mean":  0.13333333333333333,
+                        "raw_min":  0,
+                        "raw_max":  1,
+                        "rail_count":  30
+                    },
+                    {
+                        "group":  "F, 20000",
+                        "count":  30,
+                        "raw_mean":  0.16666666666666666,
+                        "mv_mean":  0.5,
+                        "raw_min":  0,
+                        "raw_max":  3,
+                        "rail_count":  30
+                    },
+                    {
+                        "group":  "R, 1000",
+                        "count":  30,
+                        "raw_mean":  4095,
+                        "mv_mean":  3152,
+                        "raw_min":  4095,
+                        "raw_max":  4095,
+                        "rail_count":  30
+                    },
+                    {
+                        "group":  "R, 5000",
+                        "count":  30,
+                        "raw_mean":  4095,
+                        "mv_mean":  3152,
+                        "raw_min":  4095,
+                        "raw_max":  4095,
+                        "rail_count":  30
+                    },
+                    {
+                        "group":  "R, 20000",
+                        "count":  30,
+                        "raw_mean":  4095,
+                        "mv_mean":  3152,
+                        "raw_min":  4095,
+                        "raw_max":  4095,
+                        "rail_count":  30
+                    }
+                ]
+}

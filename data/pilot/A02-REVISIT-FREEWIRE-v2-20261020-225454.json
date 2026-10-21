@@ -1,0 +1,22 @@
+﻿{
+    "specimen_id":  "A02",
+    "class":  "apple",
+    "subtype":  "1",
+    "mass_g":  149,
+    "electrode_type":  "cutter_tooth",
+    "fixture_id":  "uncontrolled-wire-position",
+    "depth_mm":  13,
+    "depth_note":  "requested 13 mm; user confirmed ready",
+    "configuration_note":  "revisit A02 after other produce; cleaning and drying electrode requested; wire geometry uncontrolled; firmware changed since original A02 measurements; previous air baseline not paired",
+    "firmware_version":  "v2-measurement-mode",
+    "session_id":  "20261020-225454",
+    "pre_capture_wait_s":  30,
+    "pressed_semantics":  "disabled; not evidence of hands-off",
+    "sample_count":  150,
+    "mean":  26836.266666666666,
+    "min":  26742,
+    "max":  26990,
+    "sd":  61.75895796472679,
+    "first50_mean":  26784.4,
+    "last50_mean":  26903.5
+}

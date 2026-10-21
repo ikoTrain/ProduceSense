@@ -1,0 +1,83 @@
+﻿{
+    "class":  "apple",
+    "specimen_id":  "A06",
+    "mass_g":  89,
+    "mass_note":  "historical mass, not reweighed",
+    "installation":  2,
+    "depth_mm":  13,
+    "spacing_mm":  10,
+    "geometry_note":  "same A06 relocated requested; user ready; approximate geometry",
+    "dataset_role":  "prospective holdout; never train frozen v1 on this specimen",
+    "firmware":  "v3",
+    "series_resistor_ohm":  10000,
+    "pre_capture_wait_s":  30,
+    "sample_count":  180,
+    "summary":  [
+                    {
+                        "group":  "F, 1000",
+                        "count":  30,
+                        "mv_mean":  1653.3,
+                        "mv_sd":  3.2777024473452951,
+                        "mv_min":  1643,
+                        "mv_max":  1658,
+                        "first10_mv":  1653.9,
+                        "last10_mv":  1654.1,
+                        "rail_count":  0
+                    },
+                    {
+                        "group":  "F, 5000",
+                        "count":  30,
+                        "mv_mean":  1682.6333333333334,
+                        "mv_sd":  3.0928232338036312,
+                        "mv_min":  1675,
+                        "mv_max":  1693,
+                        "first10_mv":  1683.8,
+                        "last10_mv":  1681.8,
+                        "rail_count":  0
+                    },
+                    {
+                        "group":  "F, 20000",
+                        "count":  30,
+                        "mv_mean":  1738.6666666666667,
+                        "mv_sd":  4.14192655120242,
+                        "mv_min":  1727,
+                        "mv_max":  1748,
+                        "first10_mv":  1740.1,
+                        "last10_mv":  1738.5,
+                        "rail_count":  0
+                    },
+                    {
+                        "group":  "R, 1000",
+                        "count":  30,
+                        "mv_mean":  1698.0666666666666,
+                        "mv_sd":  3.5863940416834046,
+                        "mv_min":  1687,
+                        "mv_max":  1705,
+                        "first10_mv":  1697.2,
+                        "last10_mv":  1699.8,
+                        "rail_count":  0
+                    },
+                    {
+                        "group":  "R, 5000",
+                        "count":  30,
+                        "mv_mean":  1667.0333333333333,
+                        "mv_sd":  3.1568268174791529,
+                        "mv_min":  1658,
+                        "mv_max":  1672,
+                        "first10_mv":  1667.9,
+                        "last10_mv":  1665.5,
+                        "rail_count":  0
+                    },
+                    {
+                        "group":  "R, 20000",
+                        "count":  30,
+                        "mv_mean":  1607.6,
+                        "mv_sd":  2.4303634844744249,
+                        "mv_min":  1604,
+                        "mv_max":  1613,
+                        "first10_mv":  1608.3,
+                        "last10_mv":  1607.9,
+                        "rail_count":  0
+                    }
+                ]
+}

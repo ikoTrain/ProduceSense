@@ -1,0 +1,16 @@
+﻿{
+    "specimen_id":  "B02",
+    "mass_g":  243,
+    "class":  "beetroot",
+    "electrode_type":  "cutter_tooth",
+    "depth_mm":  null,
+    "configuration_note":  "user reinserted into same hole and touched specimen before capture; actual depth not reconfirmed",
+    "firmware_version":  "v2-measurement-mode",
+    "session_note":  "after flash and reset; diagnostic, not a controlled repeat of installation 2",
+    "pressed_semantics":  "disabled in measurement mode; zero does not establish absence of physical touch",
+    "sample_count":  150,
+    "mean":  28231.806666666667,
+    "min":  28189,
+    "max":  28280,
+    "pressed_count":  0
+}

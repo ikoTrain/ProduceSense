@@ -1,0 +1,11 @@
+# Preserve the exact bytes used by capture hashes and original recordings.
+data/** -text
+model/** -text
+firmware/** -text
+*.png binary
+*.jpg binary
+*.pdf binary
+*.md text eol=lf
+*.cjs text eol=lf
+*.svg text eol=lf
+*.html text eol=lf

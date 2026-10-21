@@ -1,0 +1,20 @@
+﻿{
+    "specimen_id":  "C01",
+    "class":  "cucumber",
+    "subtype":  null,
+    "mass_g":  175,
+    "installation":  1,
+    "electrode_type":  "cutter_tooth",
+    "configuration_note":  "same electrode inserted sideways into flesh at 13 mm requested; user supplied cucumber mass, readiness inferred",
+    "method":  "ESP32-S3 GPIO4 touchRead median-of-5",
+    "timestamp":  "20261020-221409",
+    "depth_mm":  13,
+    "depth_note":  "requested, not independently confirmed",
+    "pre_capture_wait_s":  30,
+    "sample_count":  150,
+    "mean":  28411.673333333332,
+    "min":  28344,
+    "max":  28462,
+    "sd":  25.498887993182993,
+    "pressed_count":  0
+}

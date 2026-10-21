@@ -1,0 +1,17 @@
+﻿{
+    "specimen_id":  "GPIO4-BARE",
+    "class":  "bare_pin_reference",
+    "electrode_type":  "none",
+    "configuration_note":  "lead removal from GPIO4 requested; user reported desoldered; USB and board stationary requested",
+    "firmware_version":  "v2-measurement-mode",
+    "session_id":  "20261020-223753",
+    "repeat":  2,
+    "pressed_semantics":  "disabled; not evidence of hands-off",
+    "sample_count":  150,
+    "mean":  15925,
+    "min":  15913,
+    "max":  15934,
+    "sd":  4.9003401242498805,
+    "first50_mean":  15926.12,
+    "last50_mean":  15923.96
+}

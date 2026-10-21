@@ -1,0 +1,20 @@
+﻿{
+    "specimen_id":  "C01",
+    "class":  "cucumber",
+    "subtype":  null,
+    "mass_g":  175,
+    "installation":  2,
+    "electrode_type":  "cutter_tooth",
+    "configuration_note":  "new insertion location on same cucumber requested; user confirmed ready",
+    "method":  "ESP32-S3 GPIO4 touchRead median-of-5",
+    "timestamp":  "20261020-221544",
+    "depth_mm":  13,
+    "depth_note":  "requested 13 mm; user confirmed ready",
+    "pre_capture_wait_s":  30,
+    "sample_count":  150,
+    "mean":  28216.006666666668,
+    "min":  28169,
+    "max":  28271,
+    "sd":  23.053415268795987,
+    "pressed_count":  0
+}

@@ -1,0 +1,120 @@
+{
+  "model_sha256": "64E55735D6826A77EABAAC6858F4AC5B76F9ECF6F9CAC9EC212360C4019FB81C",
+  "training_specimens": 6,
+  "final_specimens": 15,
+  "placements": 30,
+  "correct": 30,
+  "elapsed_ms": 7600,
+  "max_relative_F1_change_percent": 18.958465855940133,
+  "labels": [
+    "apple",
+    "potato",
+    "cucumber"
+  ],
+  "confusion": [
+    [
+      10,
+      0,
+      0
+    ],
+    [
+      0,
+      10,
+      0
+    ],
+    [
+      0,
+      0,
+      10
+    ]
+  ],
+  "training_size": {
+    "note": "Post-hoc analysis of an already examined test set; not independent validation.",
+    "runs": [
+      {
+        "training": 3,
+        "ids": [
+          "A01",
+          "P02",
+          "C01"
+        ],
+        "correct": 30
+      },
+      {
+        "training": 3,
+        "ids": [
+          "A01",
+          "P02",
+          "C02"
+        ],
+        "correct": 30
+      },
+      {
+        "training": 3,
+        "ids": [
+          "A01",
+          "P_UNIDENTIFIED",
+          "C01"
+        ],
+        "correct": 30
+      },
+      {
+        "training": 3,
+        "ids": [
+          "A01",
+          "P_UNIDENTIFIED",
+          "C02"
+        ],
+        "correct": 30
+      },
+      {
+        "training": 3,
+        "ids": [
+          "A04",
+          "P02",
+          "C01"
+        ],
+        "correct": 30
+      },
+      {
+        "training": 3,
+        "ids": [
+          "A04",
+          "P02",
+          "C02"
+        ],
+        "correct": 30
+      },
+      {
+        "training": 3,
+        "ids": [
+          "A04",
+          "P_UNIDENTIFIED",
+          "C01"
+        ],
+        "correct": 30
+      },
+      {
+        "training": 3,
+        "ids": [
+          "A04",
+          "P_UNIDENTIFIED",
+          "C02"
+        ],
+        "correct": 30
+      },
+      {
+        "training": 6,
+        "ids": [
+          "A01",
+          "A04",
+          "C01",
+          "C02",
+          "P02",
+          "P_UNIDENTIFIED"
+        ],
+        "correct": 30
+      }
+    ]
+  }
+}

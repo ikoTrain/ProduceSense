@@ -1,0 +1,39 @@
+﻿{
+    "id":  "BLIND05",
+    "created_at":  "2026-10-20T21:51:26.205Z",
+    "protocol":  "blind single installation, frozen model trained on two-installation specimen means",
+    "model_sha256":  "2e8ea2a43093247b100d261007fa65230611dab7a4a9381b3ef605ede55cb47f",
+    "capture":  "BLIND05-install01-20261021-005036.json",
+    "features":  [
+                     621.0333333333333,
+                     651.7333333333333,
+                     704.5,
+                     2726.0666666666666,
+                     2689.4333333333334,
+                     2629.366666666667
+                 ],
+    "predicted":  "cucumber",
+    "ranking":  [
+                    {
+                        "label":  "cucumber",
+                        "distance":  0.5449979288225101
+                    },
+                    {
+                        "label":  "potato",
+                        "distance":  0.9532345790592941
+                    },
+                    {
+                        "label":  "beetroot",
+                        "distance":  1.0098756819481918
+                    },
+                    {
+                        "label":  "apple",
+                        "distance":  5.558565012547594
+                    }
+                ],
+    "actual_label":  "cucumber",
+    "note":  "Identity withheld at prediction time; distances are not probabilities; no retraining.",
+    "label_revealed_at":  "2026-10-20T21:51:50.5981061Z",
+    "label_source":  "User confirmed cucumber after prediction",
+    "geometry_protocol":  "free geometry, depth and spacing unknown; separate robustness test"
+}

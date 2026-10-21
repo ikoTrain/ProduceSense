@@ -1,0 +1,83 @@
+﻿{
+    "class":  "apple",
+    "specimen_id":  "BLIND01",
+    "mass_g":  null,
+    "installation":  1,
+    "depth_mm":  13,
+    "spacing_mm":  10,
+    "geometry_note":  "requested approximate geometry; user inserted; identity withheld",
+    "dataset_role":  "blind single-installation test, separate from two-installation holdout",
+    "firmware":  "v3",
+    "series_resistor_ohm":  10000,
+    "pre_capture_wait_s":  30,
+    "sample_count":  180,
+    "summary":  [
+                    {
+                        "group":  "F, 1000",
+                        "count":  30,
+                        "mv_mean":  1591.3333333333333,
+                        "mv_sd":  2.6499475885802384,
+                        "mv_min":  1583,
+                        "mv_max":  1600,
+                        "first10_mv":  1592.9,
+                        "last10_mv":  1590.6,
+                        "rail_count":  0
+                    },
+                    {
+                        "group":  "F, 5000",
+                        "count":  30,
+                        "mv_mean":  1623.2666666666667,
+                        "mv_sd":  4.1225666223307496,
+                        "mv_min":  1613,
+                        "mv_max":  1629,
+                        "first10_mv":  1622.9,
+                        "last10_mv":  1622.8,
+                        "rail_count":  0
+                    },
+                    {
+                        "group":  "F, 20000",
+                        "count":  30,
+                        "mv_mean":  1676.4666666666667,
+                        "mv_sd":  4.0309910554215946,
+                        "mv_min":  1671,
+                        "mv_max":  1686,
+                        "first10_mv":  1676.4,
+                        "last10_mv":  1675.9,
+                        "rail_count":  0
+                    },
+                    {
+                        "group":  "R, 1000",
+                        "count":  30,
+                        "mv_mean":  1742.6333333333334,
+                        "mv_sd":  4.0536677493625692,
+                        "mv_min":  1723,
+                        "mv_max":  1748,
+                        "first10_mv":  1740.7,
+                        "last10_mv":  1743.1,
+                        "rail_count":  0
+                    },
+                    {
+                        "group":  "R, 5000",
+                        "count":  30,
+                        "mv_mean":  1707.1666666666667,
+                        "mv_sd":  3.9419397368413565,
+                        "mv_min":  1697,
+                        "mv_max":  1718,
+                        "first10_mv":  1706.5,
+                        "last10_mv":  1706.8,
+                        "rail_count":  0
+                    },
+                    {
+                        "group":  "R, 20000",
+                        "count":  30,
+                        "mv_mean":  1648.1333333333334,
+                        "mv_sd":  4.0309910554215929,
+                        "mv_min":  1640,
+                        "mv_max":  1659,
+                        "first10_mv":  1647.8,
+                        "last10_mv":  1649.4,
+                        "rail_count":  0
+                    }
+                ],
+    "label_note":  "Revealed by user after prediction; physical specimen identity and mass unknown"
+}

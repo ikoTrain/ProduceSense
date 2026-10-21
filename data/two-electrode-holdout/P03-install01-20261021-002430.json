@@ -1,0 +1,83 @@
+﻿{
+    "class":  "potato",
+    "specimen_id":  "P03",
+    "mass_g":  93,
+    "mass_note":  "user reported 93 g after request for new potato",
+    "installation":  1,
+    "depth_mm":  13,
+    "spacing_mm":  10,
+    "geometry_note":  "requested approximate depth and spacing; user ready",
+    "dataset_role":  "prospective holdout; never train frozen v1 on this specimen",
+    "firmware":  "v3",
+    "series_resistor_ohm":  10000,
+    "pre_capture_wait_s":  30,
+    "sample_count":  180,
+    "summary":  [
+                    {
+                        "group":  "F, 1000",
+                        "count":  30,
+                        "mv_mean":  434.56666666666666,
+                        "mv_sd":  5.8633513359587193,
+                        "mv_min":  424,
+                        "mv_max":  456,
+                        "first10_mv":  435.1,
+                        "last10_mv":  434.6,
+                        "rail_count":  0
+                    },
+                    {
+                        "group":  "F, 5000",
+                        "count":  30,
+                        "mv_mean":  466.9,
+                        "mv_sd":  3.9945796608237334,
+                        "mv_min":  458,
+                        "mv_max":  481,
+                        "first10_mv":  468.1,
+                        "last10_mv":  467.3,
+                        "rail_count":  0
+                    },
+                    {
+                        "group":  "F, 20000",
+                        "count":  30,
+                        "mv_mean":  524.26666666666665,
+                        "mv_sd":  4.1707979518978817,
+                        "mv_min":  514,
+                        "mv_max":  536,
+                        "first10_mv":  523.1,
+                        "last10_mv":  525.3,
+                        "rail_count":  0
+                    },
+                    {
+                        "group":  "R, 1000",
+                        "count":  30,
+                        "mv_mean":  2941.9666666666667,
+                        "mv_sd":  4.9022670492561105,
+                        "mv_min":  2929,
+                        "mv_max":  2951,
+                        "first10_mv":  2944.5,
+                        "last10_mv":  2940.5,
+                        "rail_count":  0
+                    },
+                    {
+                        "group":  "R, 5000",
+                        "count":  30,
+                        "mv_mean":  2912.7,
+                        "mv_sd":  4.083707465853383,
+                        "mv_min":  2905,
+                        "mv_max":  2923,
+                        "first10_mv":  2913.9,
+                        "last10_mv":  2911.2,
+                        "rail_count":  0
+                    },
+                    {
+                        "group":  "R, 20000",
+                        "count":  30,
+                        "mv_mean":  2841.5666666666666,
+                        "mv_sd":  6.4429979219476907,
+                        "mv_min":  2815,
+                        "mv_max":  2854,
+                        "first10_mv":  2845.4,
+                        "last10_mv":  2840.4,
+                        "rail_count":  0
+                    }
+                ]
+}

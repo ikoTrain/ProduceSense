@@ -1,0 +1,85 @@
+﻿{
+    "class":  "cucumber",
+    "specimen_id":  "C03",
+    "mass_g":  85,
+    "mass_note":  "user reported 85 g during first capture",
+    "installation":  1,
+    "depth_mm":  13,
+    "spacing_mm":  10,
+    "geometry_note":  "new cucumber requested; user ready; approximate depth and spacing",
+    "dataset_role":  "prospective holdout; never train frozen v1 on this specimen",
+    "firmware":  "v3",
+    "series_resistor_ohm":  10000,
+    "pre_capture_wait_s":  30,
+    "sample_count":  180,
+    "summary":  [
+                    {
+                        "group":  "F, 1000",
+                        "count":  30,
+                        "mv_mean":  715.5333333333333,
+                        "mv_sd":  4.3568592153318688,
+                        "mv_min":  706,
+                        "mv_max":  726,
+                        "first10_mv":  717.4,
+                        "last10_mv":  713.7,
+                        "rail_count":  0
+                    },
+                    {
+                        "group":  "F, 5000",
+                        "count":  30,
+                        "mv_mean":  755.7,
+                        "mv_sd":  3.4171137918814862,
+                        "mv_min":  748,
+                        "mv_max":  764,
+                        "first10_mv":  756.1,
+                        "last10_mv":  754.5,
+                        "rail_count":  0
+                    },
+                    {
+                        "group":  "F, 20000",
+                        "count":  30,
+                        "mv_mean":  815.9666666666667,
+                        "mv_sd":  2.5882211823738883,
+                        "mv_min":  810,
+                        "mv_max":  823,
+                        "first10_mv":  814.9,
+                        "last10_mv":  817.1,
+                        "rail_count":  0
+                    },
+                    {
+                        "group":  "R, 1000",
+                        "count":  30,
+                        "mv_mean":  2627.5333333333333,
+                        "mv_sd":  4.2326771144933275,
+                        "mv_min":  2617,
+                        "mv_max":  2640,
+                        "first10_mv":  2627.4,
+                        "last10_mv":  2626.3,
+                        "rail_count":  0
+                    },
+                    {
+                        "group":  "R, 5000",
+                        "count":  30,
+                        "mv_mean":  2584.3333333333335,
+                        "mv_sd":  6.8960536218590711,
+                        "mv_min":  2570,
+                        "mv_max":  2610,
+                        "first10_mv":  2584.1,
+                        "last10_mv":  2584,
+                        "rail_count":  0
+                    },
+                    {
+                        "group":  "R, 20000",
+                        "count":  30,
+                        "mv_mean":  2513.4666666666667,
+                        "mv_sd":  6.0758172747010377,
+                        "mv_min":  2500,
+                        "mv_max":  2535,
+                        "first10_mv":  2518.1,
+                        "last10_mv":  2511.2,
+                        "rail_count":  0
+                    }
+                ],
+    "quality_note":  "User reported accidental touch during measurement; exact timing relative to settling and logging unknown. Preserve capture; exclude from primary holdout prediction based on reported protocol violation, before prediction.",
+    "exclude_from_primary":  true
+}

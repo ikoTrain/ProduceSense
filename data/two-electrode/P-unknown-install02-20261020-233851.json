@@ -1,0 +1,93 @@
+﻿{
+    "class":  "potato",
+    "specimen_id":  null,
+    "mass_g":  null,
+    "installation":  2,
+    "depth_mm":  13,
+    "spacing_mm":  10,
+    "geometry_note":  "same potato relocated requested; user ready; identity and mass unknown; approximate depth and spacing",
+    "firmware":  "v3",
+    "series_resistor_ohm":  10000,
+    "pre_capture_wait_s":  30,
+    "sample_count":  180,
+    "summary":  [
+                    {
+                        "group":  "F, 1000",
+                        "count":  30,
+                        "raw_mean":  448.66666666666669,
+                        "mv_mean":  394.46666666666664,
+                        "mv_sd":  4.0061064500196322,
+                        "mv_min":  388,
+                        "mv_max":  402,
+                        "first10_mv":  394,
+                        "last10_mv":  394.3,
+                        "rail_count":  0,
+                        "actual_us_mean":  1008.7333333333333
+                    },
+                    {
+                        "group":  "F, 5000",
+                        "count":  30,
+                        "raw_mean":  485.2,
+                        "mv_mean":  426.7,
+                        "mv_sd":  4.2359571921034966,
+                        "mv_min":  416,
+                        "mv_max":  438,
+                        "first10_mv":  425.4,
+                        "last10_mv":  428.7,
+                        "rail_count":  0,
+                        "actual_us_mean":  5009.333333333333
+                    },
+                    {
+                        "group":  "F, 20000",
+                        "count":  30,
+                        "raw_mean":  557.13333333333333,
+                        "mv_mean":  488.73333333333335,
+                        "mv_sd":  4.9121165386103076,
+                        "mv_min":  473,
+                        "mv_max":  495,
+                        "first10_mv":  486.5,
+                        "last10_mv":  491.3,
+                        "rail_count":  0,
+                        "actual_us_mean":  20009.466666666667
+                    },
+                    {
+                        "group":  "R, 1000",
+                        "count":  30,
+                        "raw_mean":  3630.9,
+                        "mv_mean":  2926.7666666666669,
+                        "mv_sd":  4.30258320340493,
+                        "mv_min":  2917,
+                        "mv_max":  2936,
+                        "first10_mv":  2926.2,
+                        "last10_mv":  2928.4,
+                        "rail_count":  0,
+                        "actual_us_mean":  1009
+                    },
+                    {
+                        "group":  "R, 5000",
+                        "count":  30,
+                        "raw_mean":  3570.5333333333333,
+                        "mv_mean":  2892.7333333333331,
+                        "mv_sd":  5.567365225630124,
+                        "mv_min":  2876,
+                        "mv_max":  2906,
+                        "first10_mv":  2893.6,
+                        "last10_mv":  2891.7,
+                        "rail_count":  0,
+                        "actual_us_mean":  5009.2666666666664
+                    },
+                    {
+                        "group":  "R, 20000",
+                        "count":  30,
+                        "raw_mean":  3455.8,
+                        "mv_mean":  2820.9333333333334,
+                        "mv_sd":  5.67998435052617,
+                        "mv_min":  2817,
+                        "mv_max":  2847,
+                        "first10_mv":  2820.4,
+                        "last10_mv":  2818.9,
+                        "rail_count":  0,
+                        "actual_us_mean":  20009.433333333334
+                    }
+                ]
+}

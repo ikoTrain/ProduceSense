@@ -1,0 +1,83 @@
+﻿{
+    "class":  "potato",
+    "specimen_id":  "BLIND03",
+    "mass_g":  null,
+    "installation":  1,
+    "depth_mm":  13,
+    "spacing_mm":  10,
+    "geometry_note":  "requested approximate geometry; user inserted; identity withheld",
+    "dataset_role":  "blind single-installation test, separate from two-installation holdout",
+    "firmware":  "v3",
+    "series_resistor_ohm":  10000,
+    "pre_capture_wait_s":  30,
+    "sample_count":  180,
+    "summary":  [
+                    {
+                        "group":  "F, 1000",
+                        "count":  30,
+                        "mv_mean":  404.76666666666665,
+                        "mv_sd":  3.2627527573439514,
+                        "mv_min":  394,
+                        "mv_max":  411,
+                        "first10_mv":  404.6,
+                        "last10_mv":  404.9,
+                        "rail_count":  0
+                    },
+                    {
+                        "group":  "F, 5000",
+                        "count":  30,
+                        "mv_mean":  433.7,
+                        "mv_sd":  3.0016662039607267,
+                        "mv_min":  428,
+                        "mv_max":  440,
+                        "first10_mv":  433,
+                        "last10_mv":  435.4,
+                        "rail_count":  0
+                    },
+                    {
+                        "group":  "F, 20000",
+                        "count":  30,
+                        "mv_mean":  498.43333333333334,
+                        "mv_sd":  4.3334615365650686,
+                        "mv_min":  485,
+                        "mv_max":  512,
+                        "first10_mv":  496.2,
+                        "last10_mv":  501.5,
+                        "rail_count":  0
+                    },
+                    {
+                        "group":  "R, 1000",
+                        "count":  30,
+                        "mv_mean":  2965.9,
+                        "mv_sd":  4.7353282181210359,
+                        "mv_min":  2955,
+                        "mv_max":  2981,
+                        "first10_mv":  2967.9,
+                        "last10_mv":  2966.3,
+                        "rail_count":  0
+                    },
+                    {
+                        "group":  "R, 5000",
+                        "count":  30,
+                        "mv_mean":  2936.6666666666665,
+                        "mv_sd":  8.2637091483721132,
+                        "mv_min":  2925,
+                        "mv_max":  2964,
+                        "first10_mv":  2941.1,
+                        "last10_mv":  2931.8,
+                        "rail_count":  0
+                    },
+                    {
+                        "group":  "R, 20000",
+                        "count":  30,
+                        "mv_mean":  2861.7333333333331,
+                        "mv_sd":  4.9188977988524591,
+                        "mv_min":  2854,
+                        "mv_max":  2875,
+                        "first10_mv":  2865.5,
+                        "last10_mv":  2859.8,
+                        "rail_count":  0
+                    }
+                ],
+    "label_note":  "User revealed potato after prediction; different variety and juicier per user"
+}

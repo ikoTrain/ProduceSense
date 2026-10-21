@@ -1,0 +1,39 @@
+﻿{
+    "specimen_id":  "FINAL11",
+    "class":  "cucumber",
+    "mass_g":  null,
+    "specimen_note":  "same FINAL11 cucumber; user confirmed relocation",
+    "installation":  2,
+    "series":  "final fast single-installation evaluation",
+    "blinding":  "open; class known before capture",
+    "depth_mm":  null,
+    "spacing_mm":  null,
+    "geometry_note":  "free placement; exact geometry not supplied",
+    "firmware":  "ProduceClassifier v1.1",
+    "model":  "three-class-v1",
+    "model_file_sha256":  "64E55735D6826A77EABAAC6858F4AC5B76F9ECF6F9CAC9EC212360C4019FB81C",
+    "mode":  "fast",
+    "cycles":  6,
+    "elapsed_ms":  7600,
+    "features_order":  [
+                           "F1",
+                           "F5",
+                           "F20",
+                           "R1",
+                           "R5",
+                           "R20"
+                       ],
+    "features_mv":  [
+                        698,
+                        730.5,
+                        780.167,
+                        2638.167,
+                        2609.167,
+                        2545.5
+                    ],
+    "predicted":  "cucumber",
+    "invalid":  false,
+    "correct":  true,
+    "training_update":  false,
+    "capture_note":  "firmware outputs six means only; individual cycle readings unavailable in this version"
+}

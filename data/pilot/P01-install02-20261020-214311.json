@@ -1,0 +1,17 @@
+﻿{
+    "specimen_id":  "P01",
+    "class":  "potato",
+    "subtype":  null,
+    "installation":  2,
+    "method":  "ESP32-S3 GPIO4 touchRead median-of-5",
+    "timestamp":  "20261020-214311",
+    "depth_mm":  13,
+    "depth_note":  "approximately, user reported",
+    "sample_count":  150,
+    "mean":  26408.613333333335,
+    "min":  26383,
+    "max":  26449,
+    "sd":  12.527189983746927,
+    "pressed_count":  0,
+    "mass_g":  126
+}

@@ -1,0 +1,19 @@
+﻿{
+    "specimen_id":  "AIR01",
+    "class":  "air_reference",
+    "mass_g":  null,
+    "electrode_type":  "cutter_tooth",
+    "depth_mm":  0,
+    "configuration_note":  "electrode removed from beetroot; cleaning drying and suspension in air with specimen and hands at least 30 cm away requested; user confirmed ready",
+    "firmware_version":  "v2-measurement-mode",
+    "session_id":  "20261020-223555",
+    "repeat":  2,
+    "pressed_semantics":  "disabled; not evidence of hands-off",
+    "sample_count":  150,
+    "mean":  28504.486666666668,
+    "min":  28383,
+    "max":  28658,
+    "sd":  70.389273488381917,
+    "first50_mean":  28575.92,
+    "last50_mean":  28441.28
+}

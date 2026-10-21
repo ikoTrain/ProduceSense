@@ -1,0 +1,93 @@
+﻿{
+    "class":  "apple",
+    "specimen_id":  "A01",
+    "mass_g":  198,
+    "installation":  1,
+    "depth_mm":  13,
+    "spacing_mm":  10,
+    "geometry_note":  "User identified as very first apple: A01, previously weighed 198 g; not reweighed. Requested depth 13 mm and spacing about 10 mm; user ready.",
+    "firmware":  "v3",
+    "series_resistor_ohm":  10000,
+    "pre_capture_wait_s":  30,
+    "sample_count":  180,
+    "summary":  [
+                    {
+                        "group":  "F, 1000",
+                        "count":  30,
+                        "raw_mean":  1948.0333333333333,
+                        "mv_mean":  1644.9333333333334,
+                        "mv_sd":  8.496796782055906,
+                        "mv_min":  1628,
+                        "mv_max":  1666,
+                        "first10_mv":  1638.8,
+                        "last10_mv":  1651.4,
+                        "rail_count":  0,
+                        "actual_us_mean":  1008.7333333333333
+                    },
+                    {
+                        "group":  "F, 5000",
+                        "count":  30,
+                        "raw_mean":  1994.6333333333334,
+                        "mv_mean":  1684.0666666666666,
+                        "mv_sd":  7.9579450167043086,
+                        "mv_min":  1669,
+                        "mv_max":  1697,
+                        "first10_mv":  1675.8,
+                        "last10_mv":  1692.1,
+                        "rail_count":  0,
+                        "actual_us_mean":  5008.9
+                    },
+                    {
+                        "group":  "F, 20000",
+                        "count":  30,
+                        "raw_mean":  2064.0666666666666,
+                        "mv_mean":  1740.2666666666667,
+                        "mv_sd":  10.233713347992937,
+                        "mv_min":  1718,
+                        "mv_max":  1755,
+                        "first10_mv":  1729.8,
+                        "last10_mv":  1748.9,
+                        "rail_count":  0,
+                        "actual_us_mean":  20009.333333333332
+                    },
+                    {
+                        "group":  "R, 1000",
+                        "count":  30,
+                        "raw_mean":  2065.9,
+                        "mv_mean":  1741.8333333333333,
+                        "mv_sd":  9.6439387988288043,
+                        "mv_min":  1721,
+                        "mv_max":  1759,
+                        "first10_mv":  1730.5,
+                        "last10_mv":  1750,
+                        "rail_count":  0,
+                        "actual_us_mean":  1009
+                    },
+                    {
+                        "group":  "R, 5000",
+                        "count":  30,
+                        "raw_mean":  2013.5,
+                        "mv_mean":  1700.2666666666667,
+                        "mv_sd":  9.0955422537025736,
+                        "mv_min":  1686,
+                        "mv_max":  1722,
+                        "first10_mv":  1690.9,
+                        "last10_mv":  1709.3,
+                        "rail_count":  0,
+                        "actual_us_mean":  5008.9666666666662
+                    },
+                    {
+                        "group":  "R, 20000",
+                        "count":  30,
+                        "raw_mean":  1938.3,
+                        "mv_mean":  1636.8666666666666,
+                        "mv_sd":  9.513966341939387,
+                        "mv_min":  1620,
+                        "mv_max":  1658,
+                        "first10_mv":  1626.1,
+                        "last10_mv":  1645.6,
+                        "rail_count":  0,
+                        "actual_us_mean":  20009.5
+                    }
+                ]
+}

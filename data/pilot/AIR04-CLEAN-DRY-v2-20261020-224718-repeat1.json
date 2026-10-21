@@ -1,0 +1,18 @@
+﻿{
+    "specimen_id":  "AIR04-CLEAN-DRY",
+    "class":  "air_reference",
+    "electrode_type":  "cutter_tooth",
+    "fixture_id":  "fixed-fixture-02",
+    "configuration_note":  "metal tooth cleaned and dried after B02 removal, keeping fixture and wire unchanged requested; user confirmed ready; cleaning method unspecified",
+    "firmware_version":  "v2-measurement-mode",
+    "session_id":  "20261020-224718",
+    "repeat":  1,
+    "pressed_semantics":  "disabled; not evidence of hands-off",
+    "sample_count":  150,
+    "mean":  22015.653333333332,
+    "min":  21996,
+    "max":  22045,
+    "sd":  9.94383337663208,
+    "first50_mean":  22012.1,
+    "last50_mean":  22021.98
+}

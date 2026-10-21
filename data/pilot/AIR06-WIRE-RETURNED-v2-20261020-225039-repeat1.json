@@ -1,0 +1,18 @@
+﻿{
+    "specimen_id":  "AIR06-WIRE-RETURNED",
+    "class":  "air_reference",
+    "electrode_type":  "cutter_tooth",
+    "fixture_id":  "wire-return-test-01",
+    "configuration_note":  "wire returned approximately to prior clean-dry reference position, dry tooth with no produce requested; user confirmed ready; exact geometry not verified",
+    "firmware_version":  "v2-measurement-mode",
+    "session_id":  "20261020-225039",
+    "repeat":  1,
+    "pressed_semantics":  "disabled; not evidence of hands-off",
+    "sample_count":  150,
+    "mean":  21990.433333333334,
+    "min":  21953,
+    "max":  22064,
+    "sd":  12.275404496616613,
+    "first50_mean":  21997.54,
+    "last50_mean":  21987.14
+}

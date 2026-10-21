@@ -1,0 +1,89 @@
+{
+  "note": "Post-hoc exploratory training-size comparison on already examined final set; not independent validation. All 8 choices of one training specimen per class; same 30 correlated installations.",
+  "runs": [
+    {
+      "training": 3,
+      "ids": [
+        "A01",
+        "P02",
+        "C01"
+      ],
+      "correct": 30
+    },
+    {
+      "training": 3,
+      "ids": [
+        "A04",
+        "P02",
+        "C01"
+      ],
+      "correct": 30
+    },
+    {
+      "training": 3,
+      "ids": [
+        "A01",
+        "P_UNIDENTIFIED",
+        "C01"
+      ],
+      "correct": 30
+    },
+    {
+      "training": 3,
+      "ids": [
+        "A04",
+        "P_UNIDENTIFIED",
+        "C01"
+      ],
+      "correct": 30
+    },
+    {
+      "training": 3,
+      "ids": [
+        "A01",
+        "P02",
+        "C02"
+      ],
+      "correct": 30
+    },
+    {
+      "training": 3,
+      "ids": [
+        "A04",
+        "P02",
+        "C02"
+      ],
+      "correct": 30
+    },
+    {
+      "training": 3,
+      "ids": [
+        "A01",
+        "P_UNIDENTIFIED",
+        "C02"
+      ],
+      "correct": 30
+    },
+    {
+      "training": 3,
+      "ids": [
+        "A04",
+        "P_UNIDENTIFIED",
+        "C02"
+      ],
+      "correct": 30
+    },
+    {
+      "training": 6,
+      "ids": [
+        "A01",
+        "A04",
+        "C01",
+        "C02",
+        "P02",
+        "P_UNIDENTIFIED"
+      ],
+      "correct": 30
+    }
+  ]
+}

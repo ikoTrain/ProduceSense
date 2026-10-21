@@ -1,0 +1,20 @@
+﻿{
+    "specimen_id":  "B02",
+    "class":  "beetroot",
+    "subtype":  null,
+    "mass_g":  243,
+    "installation":  1,
+    "electrode_type":  "cutter_tooth",
+    "configuration_note":  "new beetroot; user confirmed mass and readiness",
+    "method":  "ESP32-S3 GPIO4 touchRead median-of-5",
+    "timestamp":  "20261020-222635",
+    "depth_mm":  13,
+    "depth_note":  "requested 13 mm; user confirmed ready",
+    "pre_capture_wait_s":  30,
+    "sample_count":  150,
+    "mean":  27880.553333333333,
+    "min":  27816,
+    "max":  27924,
+    "sd":  19.955462632795264,
+    "pressed_count":  0
+}

@@ -1,0 +1,19 @@
+﻿{
+    "specimen_id":  "B02",
+    "class":  "beetroot",
+    "mass_g":  243,
+    "electrode_type":  "cutter_tooth",
+    "depth_mm":  null,
+    "configuration_note":  "unchanged since B02 diagnostic v2; user confirmed left in place; depth not reconfirmed after prior reinsertion",
+    "firmware_version":  "v2-measurement-mode",
+    "session_id":  "20261020-223316",
+    "repeat":  2,
+    "pressed_semantics":  "disabled; not evidence of hands-off",
+    "sample_count":  150,
+    "mean":  28171.833333333332,
+    "min":  28118,
+    "max":  28206,
+    "sd":  15.84525866693952,
+    "first50_mean":  28172.1,
+    "last50_mean":  28159.98
+}

@@ -1,0 +1,18 @@
+﻿{
+    "specimen_id":  "AIR05-WIRE-MOVED",
+    "class":  "air_reference",
+    "electrode_type":  "cutter_tooth",
+    "fixture_id":  "wire-reposition-test-01",
+    "configuration_note":  "user reports substantially changed wire position, no beetroot inserted; whether electrode or board position also changed is unknown; compared with preceding clean-dry air reference",
+    "firmware_version":  "v2-measurement-mode",
+    "session_id":  "20261020-224922",
+    "repeat":  2,
+    "pressed_semantics":  "disabled; not evidence of hands-off",
+    "sample_count":  150,
+    "mean":  21752.386666666665,
+    "min":  21730,
+    "max":  21776,
+    "sd":  8.1925060607579425,
+    "first50_mean":  21750.4,
+    "last50_mean":  21752.42
+}
